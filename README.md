@@ -9,11 +9,12 @@
 
 - 📫 How to reach me **arshiyaanvar09@gmail.com**
 
-- 📄 Know about my experiences  https://drive.google.com/drive/folders/1o5WsL2HHPuDtgor9fd0K3xvroLbGErlx?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1o5WsL2HHPuDtgor9fd0K3xvroLbGErlx?usp=drive_link](https://drive.google.com/drive/folders/1o5WsL2HHPuDtgor9fd0K3xvroLbGErlx?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arshiya-anvar-a6b4422b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arshiya-anvar-a6b4422b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arshiya-anvar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arshiya-anvar" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/arshiyaanvar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/arshiyaanvar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/arshiya9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arshiya9" height="30" width="40" /></a>
 </p>
 
