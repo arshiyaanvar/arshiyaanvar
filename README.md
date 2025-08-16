@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **arshiyaanvar09@gmail.com**
 
-- 📄 Know about my experiences Resume https://drive.google.com/drive/folders/1o5WsL2HHPuDtgor9fd0K3xvroLbGErlx?usp=drive_link)
+- 📄 Know about my experiences  https://drive.google.com/drive/folders/1o5WsL2HHPuDtgor9fd0K3xvroLbGErlx?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
