@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Arshiya Anvar</h1>
-<h3 align="center">I’m a 3rd-year Artificial Intelligence and Data Science student passionate about UI/UX design, frontend development, and AI. I’ve built projects like ClearSignal (multilingual slang detection) and a full-stack Home Rental Application, and I’m currently working on an ML-based Music Genre Classifier.</h3>
+<h1 align="center">Hello 👋, I'm Arshiya Anvar</h1>
+<h3 align="center">I’m an AI & Data Science student passionate about transforming ideas into intelligent solutions. With a strong foundation in machine learning, data exploration, and frontend development, I bridge creativity and technology to build impactful, user-friendly experiences. Beyond coding, I enjoy designing, mentoring, and contributing to innovative projects that make a difference.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshiyaanvar&label=Profile%20views&color=0e75b6&style=flat" alt="arshiyaanvar" /> </p>
 
 - 🔭 I’m currently working on **Music Genre Classifier**
 
-- 🌱 I’m currently learning **React,Flask**
+- 🌱 I’m currently learning **React,Streamlit**
+
+- 👨‍💻 All of my projects are available at [https://arshiya-anvar-portfolio.netlify.app/](https://arshiya-anvar-portfolio.netlify.app/)
+
+- 💬 Ask me about **Figma**
 
 - 📫 How to reach me **arshiyaanvar09@gmail.com**
 
@@ -15,6 +19,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/arshiya-anvar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arshiya-anvar" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/arshiyaanvar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/arshiyaanvar" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/arshiya18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/arshiya18" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/arshiya_a2023ai1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/arshiya_a2023ai1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/arshiya9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arshiya9" height="30" width="40" /></a>
 </p>
 
